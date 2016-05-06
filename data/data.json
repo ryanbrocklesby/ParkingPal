@@ -1,67 +1,67 @@
 [
   {
     "Year":2000,
-    "China":14.7366273,
+    "China":14.74,
     "United States":8.21
   },
   {
     "Year":2001,
-    "China":16.89597027,
+    "China":16.9,
     "United States":6.78
   },
   {
     "Year":2002,
-    "China":15.67378141,
+    "China":15.7,
     "United States":8.65
   },
   {
     "Year":2003,
-    "China":13.55675257,
+    "China":13.57,
     "United States":8.89
   },
   {
     "Year":2004,
-    "China":14.75224276,
+    "China":14.75,
     "United States":8.63
   },
   {
     "Year":2005,
-    "China":14.84460685,
+    "China":14.84,
     "United States":8.58
   },
   {
     "Year":2006,
-    "China":14.43139241,
+    "China":14.43,
     "United States":9.24
   },
   {
     "Year":2007,
-    "China":14.24746834,
+    "China":14.25,
     "United States":8.37
   },
   {
     "Year":2008,
-    "China":16.56331087,
+    "China":16.56,
     "United States":9.00
   },
   {
     "Year":2009,
-    "China":16.72512936,
+    "China":16.73,
     "United States":10.29
   },
   {
     "Year":2010,
-    "China":17.61574464,
+    "China":17.62,
     "United States":10.12
   },
   {
     "Year":2011,
-    "China":16.02437518,
+    "China":16.02,
     "United States":12.23
   },
   {
     "Year":2012,
-    "China":19.12718369,
+    "China":19.13,
     "United States":12.01
   }
 ]

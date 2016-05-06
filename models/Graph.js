@@ -7,4 +7,4 @@ var SampleSchema = new mongoose.Schema({
 {
     collection: 'energy_collection'
 });
-mongoose.model('Sample', SampleSchema);
+mongoose.model('Graph', SampleSchema);
