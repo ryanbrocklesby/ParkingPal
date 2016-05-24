@@ -1,4 +1,5 @@
-var app = angular.module('simple-chart', []);
+/*var app = angular.module('simple-chart', []);
+
 
 google.load("visualization", "1", {packages:["corechart"]});
 
@@ -49,3 +50,5 @@ function getOptions()
 
     return options;
 }
+
+*/

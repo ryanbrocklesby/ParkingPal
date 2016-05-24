@@ -1,5 +1,5 @@
 module.exports = {
-  'appID' : '759z4oti8i7jip',
-  'appSecret' : 'SAudIHPKE97hZfAG',
-  'callbackUrl' : 'https://assignment-1-rbgli.c9users.io/login/linkedin/callback'
+  'appID' : '75qwzbsunmflbq',
+  'appSecret' : '9eFRRVqvXBy9MQ2a',
+  'callbackUrl' : 'http://h01.cob.csuchico.edu:8000/GBI_960/ParkingPal/parkingpal/index.html#/page1/login/linkedin/callback'
 }
